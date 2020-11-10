@@ -8,7 +8,6 @@ import java.util.List;
 import it.unibo.oop.lab.socialnetwork.SocialNetworkUser;
 import it.unibo.oop.lab.socialnetwork.SocialNetworkUserImpl;
 import it.unibo.oop.lab.socialnetwork.User;
-import jdk.javadoc.internal.doclets.toolkit.util.Comparators;
 
 /**
  * Instruction: define two comparators as anonymous classes in oder to sort a
